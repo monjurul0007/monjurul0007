@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Monjurul Hoque Chowdhury, Software Engineer working in Dhaka, Bangladesh.</h1>
 <h3 align="center">I am a passionate Software Engineer, Currently working on modern web applications and enthusiast in devops in cloud computing</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monjurul0007" alt="monjurul0007" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monjurul0007" alt="monjurul0007" /></a> </p> -->
 
 - 🔭 I’m currently working on **a project in Enosis Solutions**
 
