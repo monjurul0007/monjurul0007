@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mch.shuvo.official@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ireVTjGRrjU5fe_47Dv3OdHlAETTWXOQ/view?usp=sharing](https://drive.google.com/file/d/1ireVTjGRrjU5fe_47Dv3OdHlAETTWXOQ/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1GeKXMoOK6isaTTx8QgKcEBKgpuzPlL9f/view?usp=sharing" target="_blank">here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
