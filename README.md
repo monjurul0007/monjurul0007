@@ -3,13 +3,11 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monjurul0007" alt="monjurul0007" /></a> </p> -->
 
-- 🔭 I’m currently working on **a project in Enosis Solutions**
+- 🔭 I’m currently working in **Therap BD Ltd.**
 
-- 🌱 I’m currently learning **Typescript**
+- 👯 I’m looking to collaborate on **any opensource project related with TS, JS, React, Next.js, Python, Django**
 
-- 👯 I’m looking to collaborate on **any opensource project related with JS, Python, React, Django**
-
-- 💬 Ask me about **JS, Python, React, Django**
+- 💬 Ask me about **TS, JS, React, Next.js,  Python Django**
 
 - 📫 How to reach me **monjurul.hoque.shuvo@gmail.com**
 
