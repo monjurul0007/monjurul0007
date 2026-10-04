@@ -1,32 +1,71 @@
-<h1 align="center">Hi 👋, I'm Md. Monjurul Hoque Chowdhury, Software Engineer working in Dhaka, Bangladesh.</h1>
-<h3 align="center">I am a passionate Software Engineer, Currently working on modern web applications and enthusiast in devops in cloud computing</h3>
+<h1 align="center">Hi 👋, I'm Monjurul Hoque Chowdhury</h1>
+<h3 align="center">Senior Software Engineer · Backend & Distributed Systems · Moving into ML Infrastructure</h3>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monjurul0007" alt="monjurul0007" /></a> </p> -->
-
-- 🔭 I’m currently working in **Therap BD Ltd.**
-
-- 👯 I’m looking to collaborate on **any opensource project related with TS, JS, React, Next.js, Python, Django**
-
-- 💬 Ask me about **TS, JS, React, Next.js,  Python Django**
-
-- 📫 How to reach me **monjurul.hoque.shuvo@gmail.com**
-
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1LKTrW6gUaIFRoTsIdru0d5-hbS_Q7BVM/view?usp=sharing" target="_blank">here</a>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/monjurul0007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monjurul0007" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/monjurul0007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="monjurul0007" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/monjurul0007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="monjurul0007" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/monjurul0007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="monjurul0007" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/monjurul0007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="monjurul0007" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/monjurul0007"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:monjurul.hoque.shuvo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://drive.google.com/file/d/1LKTrW6gUaIFRoTsIdru0d5-hbS_Q7BVM/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=flat&logo=googledrive&logoColor=white" alt="Resume"/></a>
+  <img src="https://img.shields.io/badge/CKAD-Certified-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="CKAD"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+---
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monjurul0007&show_icons=true&locale=en&layout=compact" alt="monjurul0007" /></p> --!>
+### 🧑‍💻 About me
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monjurul0007&show_icons=true&locale=en" alt="monjurul0007" /></p> --!>
+I'm a senior backend engineer in **Dhaka, Bangladesh** with ~5 years of experience building full-stack web applications, with my strongest work in **backend system design** and solving gnarly problems. A competitive programming background (ICPC Dhaka Regionals) shaped how I think: algorithms first, then make it reliable at scale.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monjurul0007&" alt="monjurul0007" /></p>
+- 🏢 Senior Software Engineer (Backend) on the Engineering Enablement team at **[Field Nation](https://fieldnation.com)** (joined 2025)
+- 🕰️ Previously at **Therap BD** and **Enosis Solutions**
+- ☸️ **Certified Kubernetes Application Developer (CKAD)**
+- 🧠 Currently learning **ML engineering and AI data infrastructure**, focused on making models fast and reliable in production
+- 💬 Ask me about **backend architecture, distributed systems, Kubernetes, TypeScript, Python**
+
+---
+
+### 🛠️ Tech stack
+
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,js,py,cpp&perline=10" height="40" alt="TypeScript, JavaScript, Python, C++"/></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,django&perline=10" height="40" alt="Node.js, Django"/></td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,redux&perline=10" height="40" alt="React, Next.js, Redux"/></td>
+  </tr>
+  <tr>
+    <td><b>Data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,redis&perline=10" height="40" alt="PostgreSQL, Redis"/></td>
+  </tr>
+  <tr>
+    <td><b>Cloud & DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git&perline=10" height="40" alt="Docker, Kubernetes, AWS, Linux, Git"/></td>
+  </tr>
+  <tr>
+    <td><b>Learning</b></td>
+    <td><img src="https://skillicons.dev/icons?i=pytorch&perline=10" height="40" alt="PyTorch"/></td>
+  </tr>
+</table>
+
+---
+
+### 🏆 Competitive programming
+
+Competed in **ICPC Dhaka Regionals** and national programming contests. Favourite areas: geometry, number theory, combinatorics, and probability.
+
+<p>
+  <a href="https://codeforces.com/profile/monjurul0007"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
+  <a href="https://leetcode.com/monjurul0007"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://www.codechef.com/users/monjurul0007"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" alt="CodeChef"/></a>
+  <a href="https://www.hackerrank.com/monjurul0007"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=black" alt="HackerRank"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=monjurul0007&theme=transparent&hide_border=true" alt="GitHub streak"/>
+</p>
